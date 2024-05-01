@@ -1,0 +1,6 @@
+IMAGE FILE SERVER
+https://github.com/pyohei/simple-image-server/tree/master
+
+Http Range Request and MP4 Video Play in Browser
+https://www.zeng.dev/post/2023-http-range-and-play-mp4-in-browser/
+
