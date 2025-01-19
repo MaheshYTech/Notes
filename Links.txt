@@ -4,3 +4,6 @@ https://github.com/pyohei/simple-image-server/tree/master
 Http Range Request and MP4 Video Play in Browser
 https://www.zeng.dev/post/2023-http-range-and-play-mp4-in-browser/
 
+Javascript Interview Questions ( Objects ) - Output Based, Destructuring, Object Referencing, etc
+https://www.youtube.com/watch?v=XnFIX3c7xoI
+
